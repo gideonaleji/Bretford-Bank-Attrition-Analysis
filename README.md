@@ -30,7 +30,7 @@
 
 ## 📊 Project Overview
 
-This project presents a comprehensive customer attrition analysis for Bretford Bank, combining the power of **interactive Power BI dashboards** with **machine learning models** to identify at-risk customers and drive retention strategies.
+This project presents a comprehensive customer attrition analysis for Bretford Bank, combining **interactive Power BI dashboards** with **machine learning models** to identify at-risk customers and drive retention strategies.
 
 ### 🎯 Business Problem
 Bretford Bank experienced a churn rate of **16.1%**, affecting **1,627 customers** and placing over **$44.6 million** in revenue at risk. This project was built to deliver actionable insights to reduce attrition and retain high-value customers.
